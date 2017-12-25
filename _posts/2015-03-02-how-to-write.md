@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 表哥的一生
-date: 2015-3-02
+date: 2017-12-25
 categories: blog
-tags: [标签一,标签二]
+tags: [帅就一个字,我只说一次]
 description: 文章金句。
 ---
 
-辉煌的一生啊。
+辉煌的一生啊，一个帅字贯穿了一生。
 
 
 
